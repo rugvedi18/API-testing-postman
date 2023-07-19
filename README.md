@@ -17,3 +17,7 @@ Copy the URL and post it on browser
 
 ## 5. BooksAPI
    https://documenter.getpostman.com/view/23634037/2s946fftNR
+
+## 6. Swaager (User and Pet Model)
+   https://documenter.getpostman.com/view/23634037/2s946ffYji
+
